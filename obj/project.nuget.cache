@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3Ep6Rs8PMHXT79w8M38P+nA4dVFOBWj1mnqbXMx0ucUeZDcIV13FFe54d3so9K4HKFwa3Rw3WQLSUAyQ1Pe8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yap_z\\Desktop\\BattleBoatV4\\BoatBattle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yap_z\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\yap_z\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\yap_z\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\yap_z\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
